@@ -2,7 +2,7 @@
 
 <p>
   <a
-    href="https://www.instagram.com/pedrhl" 
+    href="https://www.instagram.com/pedroh.dev" 
     alt="Instagram"
     target="blank"
   >
