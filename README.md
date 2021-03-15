@@ -2,11 +2,11 @@
 
 My name is Pedro and I'm 24 years old
 
-• Currently working at <strong>Infosistemas</strong>
-<br/>• <strong>Fullstack JS developer</strong> more focused on <strong>backend</strong>
-<br/>• <strong>Enthusiast</strong> about <strong>learninig</strong> new technologies
-<br/>• <strong>Graduated</strong> in <strong>Computer Science</strong>
-<br/>• <strong>Always sharing knowledge</strong>
+• 📌 Currently working at <strong>Infosistemas</strong>
+<br/>• 💻 <strong>Fullstack JS developer</strong> more focused on <strong>backend</strong>
+<br/>• 🚀 <strong>Enthusiast</strong> about <strong>learninig</strong> new technologies
+<br/>• 🎓 <strong>Graduated</strong> in <strong>Computer Science</strong>
+<br/>• ⚖ <strong>Always sharing knowledge</strong>
 
 ##### <strong>PROGRAMING IS FOR EVERYONE</strong>
 
