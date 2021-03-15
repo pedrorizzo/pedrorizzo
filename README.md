@@ -10,7 +10,7 @@ My name is Pedro and I'm 24 years old
 
 ##### <strong>PROGRAMING IS FOR EVERYONE</strong>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrojsx&theme=vision-friendly-dark&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedrojsx&theme=vision-friendly-dark&show_icons=true&title_color=2ecc71&icon_color=2ecc71)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lima-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrhl/)](https://www.linkedin.com/in/pedrhl/) [![Outlook Badge](https://img.shields.io/badge/-dev.pedro@outlook.com-6A5ACD?style=flat&logo=microsoft-outlook&logoColor=white=mailto:dev.pedro@outlook.com)](mailto:dev.pedro@outlook.com) [![Instagram Badge](https://img.shields.io/badge/-pedroh.jsx-6A5ACD?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroh.jsx)](https://www.instagram.com/pedroh.jsx)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lima-2ecc71?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrhl/)](https://www.linkedin.com/in/pedrhl/) [![Outlook Badge](https://img.shields.io/badge/-dev.pedro@outlook.com-2ecc71?style=flat&logo=microsoft-outlook&logoColor=white=mailto:dev.pedro@outlook.com)](mailto:dev.pedro@outlook.com) [![Instagram Badge](https://img.shields.io/badge/-pedroh.jsx-2ecc71?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroh.jsx)](https://www.instagram.com/pedroh.jsx)
