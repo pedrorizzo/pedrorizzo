@@ -17,4 +17,4 @@ My name is Pedro and I'm 25 years old
 
 #### <strong>PROGRAMING IS FOR EVERYONE</strong>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedrojsx&theme=vision-friendly-dark&show_icons=true&title_color=2ecc71&icon_color=2ecc71)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pedroriqque&theme=vision-friendly-dark&show_icons=true&title_color=2ecc71&icon_color=2ecc71)
