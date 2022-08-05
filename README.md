@@ -12,7 +12,7 @@ My name is Pedro and I'm 25 years old
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Lima-2ecc71?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrhl/)](https://www.linkedin.com/in/pedrhl/)
 [![Outlook Badge](https://img.shields.io/badge/-dev.pedro@outlook.com-2ecc71?style=flat-square&logo=microsoft-outlook&logoColor=white=mailto:dev.pedro@outlook.com)](mailto:dev.pedro@outlook.com)
-[![Instagram Badge](https://img.shields.io/badge/-drope.hl-2ecc71?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroriqque)](https://www.instagram.com/pedroriqque)
+[![Instagram Badge](https://img.shields.io/badge/-pedroriqque-2ecc71?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroriqque)](https://www.instagram.com/pedroriqque)
 
 
 #### <strong>PROGRAMING IS FOR EVERYONE</strong>
