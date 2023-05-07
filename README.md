@@ -2,7 +2,7 @@
 
 My name is Pedro and I'm 25 years old
 
-• 📌 Currently working at <strong>Infosistemas</strong>
+• 📌 Currently working at <strong>Onfly</strong>
 <br/>• 💻 <strong>Fullstack JS developer</strong> more focused on <strong>backend</strong>
 <br/>• 🚀 <strong>Enthusiast</strong> about <strong>learninig</strong> new technologies
 <br/>• 🎓 <strong>Graduating</strong> in <strong>Computer Science</strong>
